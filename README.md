@@ -12,7 +12,9 @@ These sketches require the rosserial on rosmaster, and the rosserial-arduino lib
 Require an robot description URDF file to use the ROS rviz or the ROS moveit. 
 
 For URDF see http://wiki.ros.org/urdf/Tutorials
+
 For rviz see http://wiki.ros.org/rviz
+
 For moveit see http://docs.ros.org/kinetic/api/moveit_tutorials/html/index.html
 
 See also the ntbd core packages repository at: https://github.com/inaciose/ntbd_base
