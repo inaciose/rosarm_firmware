@@ -1,5 +1,5 @@
 # rosarm_firmware
-ROS generic robotic arm firmware for Arduino with rosserial-arduino
+ROS generic robotic arm firmware for mcro controllers with rosserial-arduino
 
 Generic firmware to be used on robotic arms using steppers or servos
 
